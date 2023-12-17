@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# DApp Casino
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este es un proyecto de una aplicación descentralizada (DApp) que permite a los usuarios interactuar con contratos inteligentes en la red de Sepolia de Ethereum, ofreciendo juegos de ruleta y dados.
 
-## Available Scripts
+## Instalación
 
-In the project directory, you can run:
+Asegúrate de tener [Node.js](https://nodejs.org/) instalado.
 
-### `npm start`
+1. Clona el repositorio: `git clone https://github.com/tu-usuario/dapp-casino.git`
+2. Entra en el directorio del proyecto: `cd dapp-casino`
+3. Instala las dependencias: `npm install`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Uso
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Para ejecutar la aplicación:
 
-### `npm test`
+1. Asegúrate de tener una billetera Metamask configurada.
+2. Ejecuta la aplicación: `npm start`
+3. Accede a [http://localhost:3000](http://localhost:3000) en tu navegador.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Características
 
-### `npm run build`
+- Interfaz de usuario intuitiva. 🎨
+- Juegos de ruleta y dados. 🎲
+- Conexión segura con Metamask. 🔒
+- Gestión de transacciones y eventos. 🔄
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Capturas de Pantalla
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Inserta capturas de pantalla aquí.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Tecnologías Utilizadas
 
-### `npm run eject`
+- React.js para el frontend. ⚛️
+- Ethereum Smart Contracts para la lógica del juego. 📜
+- Metamask para la conexión de la billetera. 💼
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Adicionalmente, se han utilizado las siguientes herramientas y servicios:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Solidity:** Lenguaje de programación utilizado para desarrollar contratos inteligentes en Ethereum. 💡
+- **JavaScript (React):** Lenguaje utilizado para la construcción del frontend de la aplicación. 🚀
+- **Web3.js:** Biblioteca de JavaScript que permite interactuar con la blockchain de Ethereum. 🌐
+- **Truffle:** Framework de desarrollo para Ethereum que facilita la creación y despliegue de contratos inteligentes. 🛠️
+- **@truffle/hdwallet-provider:** Proveedor de billetera para Truffle que simplifica la conexión con cuentas de Ethereum y la firma de transacciones. 🤖
+- **EtherScan:** Servicio de exploración de bloques y contratos en la red de Ethereum. 🕵️‍♂️
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Contribución
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+¡Bienvenido/a a contribuir! Si deseas contribuir a este proyecto, sigue estos pasos:
+1. Haz un fork del proyecto.
+2. Crea una nueva rama: `git checkout -b nueva-funcionalidad`
+3. Realiza tus cambios y haz un commit: `git commit -m 'Añade nueva funcionalidad'`
+4. Haz un push a la rama: `git push origin nueva-funcionalidad`
+5. Abre un pull request en GitHub.
 
-## Learn More
+## Licencia
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Este proyecto está bajo la licencia [MIT](LICENSE).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contacto
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Autor: Tu Nombre 🧑‍💻
+- Email: tu@email.com 📧
+- LinkedIn: [Tu Perfil de LinkedIn](enlace-a-tu-perfil) 🔗
