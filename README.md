@@ -59,6 +59,6 @@ Este proyecto está bajo la licencia [MIT](LICENSE).
 
 ## Contacto
 
-- Autor: Tu Nombre 🧑‍💻
-- Email: tu@email.com 📧
-- LinkedIn: [Tu Perfil de LinkedIn](enlace-a-tu-perfil) 🔗
+- Autor: Ignacio González 🧑‍💻
+- Email: igd29041999@gmail.com 📧
+- LinkedIn: [Ignacio González](https://www.linkedin.com/in/ignacio-gonz%C3%A1lez-del-pozo-727688211/) 🔗
